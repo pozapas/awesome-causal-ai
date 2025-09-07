@@ -6,7 +6,7 @@
 
 *Help us build the most comprehensive collection of causal AI resources*
 
-[![Contributors Welcome](https://img.shields.io/badge/Contributors-Welcome-brightgreen.svg?style=flat-square)](https://github.com/yourusername/awesome-causal-ai/graphs/contributors)
+[![Contributors Welcome](https://img.shields.io/badge/Contributors-Welcome-brightgreen.svg?style=flat-square)](https://github.com/pozapas/awesome-causal-ai/graphs/contributors)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-blue.svg?style=flat-square)](http://makeapullrequest.com)
 
 </div>
@@ -220,7 +220,8 @@ Ready to contribute? Here's how to make your first contribution:
 
 *Together, we're building the future of causal reasoning*
 
-[![Built with ❤️](https://img.shields.io/badge/Built%20with-❤️-red.svg?style=flat-square)](https://github.com/yourusername/awesome-causal-ai)
-[![Powered by Community](https://img.shields.io/badge/Powered%20by-Community-blue.svg?style=flat-square)](https://github.com/yourusername/awesome-causal-ai/graphs/contributors)
+[![Built with ❤️](https://img.shields.io/badge/Built%20with-❤️-red.svg?style=flat-square)](https://github.com/pozapas/awesome-causal-ai)
+[![Powered by Community](https://img.shields.io/badge/Powered%20by-Community-blue.svg?style=flat-square)](https://github.com/pozapas/awesome-causal-ai/graphs/contributors)
 
 </div>
+
