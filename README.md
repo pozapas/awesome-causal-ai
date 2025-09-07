@@ -22,7 +22,7 @@
 
 ### 🎯 *"From Correlation to Causation: Decoding the Why Behind AI"*
 
-**The most comprehensive collection of Causal AI resources on the internet**  
+**The most comprehensive collection of Causal AI resources**  
 *Meticulously curated by researchers, for researchers*
 
 [📚 Explore Resources](#-github-repositories) • [🤝 Contribute](CONTRIBUTING.md) • [📧 Contact](#-author--maintainer) • [⭐ Star to Bookmark](https://github.com/pozapas/awesome-causal-ai)
