@@ -45,6 +45,8 @@ graph TD
     F --> G[🌟 Start Contributing!]
 ```
 
+## 🏆 **Featured Highlights**
+
 <details>
 <summary>📊 <strong>Repository Statistics</strong></summary>
 
@@ -54,8 +56,6 @@ graph TD
 - **🔄 Last Updated**: September 5, 2025
 
 </details>
-
-## 🏆 **Featured Highlights**
 
 <table>
 <tr>
@@ -88,11 +88,15 @@ graph TD
 <div>
 
 🔍 Traditional ML: "What will happen?"
+
 🎯 Causal AI: "What if we intervene? Why did it happen?"
 
 🏥 Healthcare → Personalized treatments
+
 💰 Economics → Policy impact analysis  
+
 🤖 Robotics → Understanding cause-effect
+
 🔬 Science → Discovering mechanisms
 
 </div>
