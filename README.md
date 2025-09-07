@@ -98,7 +98,6 @@ graph TD
 
 </div>
 
----
 
 ### 🌟 **Real-World Magic**
 
