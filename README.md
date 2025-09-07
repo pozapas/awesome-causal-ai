@@ -72,17 +72,6 @@ graph TD
 </td>
 <td width="33%">
 
-### 🔬 **Latest Research**
-- **Position: Causal ML Requires Rigorous Synthetic Experiments**
-  - *ICML 2025* | Synthetic data for causal validation
-- **Causal ML in Supply Chain Risk Management**
-  - *2024* | Real-world applications
-- **Causal ML: A Survey and Open Problems**
-  - *Most cited* | Comprehensive field overview
-
-</td>
-<td width="33%">
-
 ### 🎓 **Learning Path**
 1. **Beginner**: Start with survey papers
 2. **Intermediate**: Explore core libraries
@@ -96,9 +85,8 @@ graph TD
 
 ## 💡 **Why Causal AI Matters**
 
-<div align="center">
+<div>
 
-```
 🔍 Traditional ML: "What will happen?"
 🎯 Causal AI: "What if we intervene? Why did it happen?"
 
@@ -106,11 +94,8 @@ graph TD
 💰 Economics → Policy impact analysis  
 🤖 Robotics → Understanding cause-effect
 🔬 Science → Discovering mechanisms
-```
 
 </div>
-
-A meticulously curated collection of cutting-edge research, frameworks, and methodologies in **Causal Artificial Intelligence**. This repository serves as the definitive resource for researchers, and practitioners seeking to understand, implement, and advance the frontier of causal reasoning in artificial intelligence.
 
 ---
 
