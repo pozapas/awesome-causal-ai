@@ -4,7 +4,7 @@
 ### *The Ultimate Compendium for Causal Intelligence & Reasoning*
 
 <p align="center">
-  <img src="fig/ACAI.png" alt="Causal AI Banner" width="400"/>
+  <img src="https://github.com/pozapas/awesome-causal-ai/blob/master/fig/ACI.png" width="400"/>
 </p>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
