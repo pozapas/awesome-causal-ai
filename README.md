@@ -148,7 +148,6 @@ graph TD
 - **[causallib](https://github.com/BiomedSciAI/causallib)** (786 ⭐) - A Python package for modular causal inference analysis and model evaluations *(Python)*
 - **[causalML](https://github.com/altdeep/causalML)** (776 ⭐) - The open source repository for the Causal Modeling in Machine Learning Workshop at Altdeep.ai @ www.altdeep.ai/courses/causalML *(Jupyter Notebook)*
 - **[causal-ml](https://github.com/jvpoulos/causal-ml)** (737 ⭐) - Must-read papers and resources related to causal inference and machine (deep) learning *(Unknown)*
-- **[awesome-time-series-papers](https://github.com/TSCenter/awesome-time-series-papers)** (623 ⭐) - An Awesome List of the latest time series papers and code from top AI venues. *(Unknown)*
 - **[Causal_Reading_Group](https://github.com/fulifeng/Causal_Reading_Group)** (517 ⭐) - We will keep updating the paper list about machine learning + causal theory. We also internally discuss related papers between NExT++ (NUS) and LDS (USTC) by week. *(Unknown)*
 - **[arXausality](https://github.com/logangraham/arXausality)** (416 ⭐) - A every-so-often-updated collection of every causality + machine learning paper submitted to arXiv in the recent past. *(Python)*
 - **[CEVAE](https://github.com/AMLab-Amsterdam/CEVAE)** (345 ⭐) - Causal Effect Inference with Deep Latent-Variable Models *(Python)*
