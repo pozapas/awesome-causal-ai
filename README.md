@@ -19,7 +19,9 @@
 ---
 
 <div align="center">
-<sub>Maintained alongside <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6045495"><strong>Causal AI and Computational Epistemology: A Survey</strong></a> — Rafe & Das, <em>SSRN 2025</em></sub>
+
+Maintained alongside &nbsp;<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6045495"><strong>Causal AI and Computational Epistemology: A Survey</strong></a> &nbsp;—&nbsp; Rafe & Das, <em>SSRN 2025</em> &nbsp; <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6045495"><img src="https://img.shields.io/badge/SSRN-6045495-1d4776.svg?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCAyNCI+PHRleHQgeT0iMTgiIGZvbnQtc2l6ZT0iMTYiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZmlsbD0iI2ZmZiI+U1NSTjwvdGV4dD48L3N2Zz4=" alt="SSRN"/></a>
+
 </div>
 
 ---
