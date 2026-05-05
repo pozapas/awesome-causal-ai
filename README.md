@@ -475,22 +475,7 @@ mindmap
 
 ---
 
-## 👤 **Author & Maintainer**
-
-<div align="center">
-
-<img src="https://github.com/pozapas.png" width="100" style="border-radius: 50%;">
-
-### **Amir Rafe**
-*Texas State University, [AI in Transportation Lab](https://ait-lab.vercel.app/)*
-
-[![Email](https://img.shields.io/badge/📧%20Email-amir.rafe@txstate.edu-blue.svg?style=flat-square)](mailto:amir.rafe@txstate.edu)
-[![University](https://img.shields.io/badge/🏛️%20Affiliation-Texas%20State%20University-maroon.svg?style=flat-square)](https://www.txstate.edu)
-[![Research](https://img.shields.io/badge/🔬%20Research-Causal%20AI%20&%20Safety-green.svg?style=flat-square)](#)
-
----
-
-### 📊 **Impact Metrics**
+### **Impact Metrics**
 
 <div align="center">
 
@@ -498,6 +483,3 @@ mindmap
 ![GitHub forks](https://img.shields.io/github/forks/pozapas/awesome-causal-ai?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/pozapas/awesome-causal-ai?style=social)
 
-<div align="center">
-
-### 🌟 **Built with ❤️ for the Causal AI Community**

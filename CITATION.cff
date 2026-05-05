@@ -8,8 +8,7 @@ authors:
     orcid: "https://orcid.org/0000-0001-5494-7128"
     affiliation: "Texas State University"
 repository-code: "https://github.com/pozapas/awesome-causal-ai"
-url: "https://github.com/pozapas/awesome-causal-ai"
-license: MIT
+license: CC-BY-4.0
 date-released: "2025-05-05"
 keywords:
   - causal-ai
