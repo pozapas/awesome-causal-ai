@@ -1,20 +1,11 @@
 cff-version: 1.2.0
 message: "If you use this resource, please cite it as below."
-title: "Awesome Causal AI: A Curated Collection of Research, Frameworks, and Methodologies in Causal Artificial Intelligence"
-version: "1.0.3"
 type: software
 abstract: "A curated collection of research, frameworks, and methodologies in causal artificial intelligence."
 authors:
   - family-names: Rafe
     given-names: Amir
-    orcid: "https://orcid.org/0000-0002-4089-2088"
-    affiliation: "Texas State University"
-license: CC-BY-4.0
-date-released: "2026-05-05"
-keywords:
-  - causal-ai
-  - causal-inference
-  - causal-discovery
-  - causal-representation-learning
-  - survey
-  - awesome-list
+    orcid: https://orcid.org/0000-0002-4089-2088
+title: "Awesome Causal AI: A Curated Collection of Research, Frameworks, and Methodologies in Causal Artificial Intelligence"
+version: 1.0.4
+date-released: 2026-05-05
