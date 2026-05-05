@@ -16,7 +16,7 @@
 [![Resources](https://img.shields.io/badge/Resources-1032-orange.svg?style=flat-square)](https://github.com/pozapas/awesome-causal-ai)
 
 <br>
-<sub>Archived on Zenodo: <a href="https://doi.org/10.5281/zenodo.20044979">10.5281/zenodo.20044979</a>. Full citation at the end.</sub>
+<sub>Archived on Zenodo: <a href="https://doi.org/10.5281/zenodo.20044979">10.5281/zenodo.20044979</a>. <a href="#cite-this-repository">How to cite this repo?</a></sub>
 
 </div>
 
