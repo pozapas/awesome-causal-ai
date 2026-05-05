@@ -15,6 +15,9 @@
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-September%202025-blue.svg?style=flat-square)](https://github.com/pozapas/awesome-causal-ai)
 [![Resources](https://img.shields.io/badge/Resources-1032-orange.svg?style=flat-square)](https://github.com/pozapas/awesome-causal-ai)
 
+<br>
+<sub>Archived on Zenodo: <a href="https://doi.org/10.5281/zenodo.20044979">10.5281/zenodo.20044979</a>. Full citation at the end.</sub>
+
 </div>
 
 ---
@@ -40,23 +43,9 @@ Maintained alongside &nbsp;<a href="https://papers.ssrn.com/sol3/papers.cfm?abst
 
 ---
 
-## Cite This Repository
+## About
 
-For the latest archived version, use the Zenodo concept DOI: [10.5281/zenodo.20044979](https://doi.org/10.5281/zenodo.20044979).
-
-For the exact `v1.0.5` release, cite:
-
-```bibtex
-@software{rafe_awesome_causal_ai_2026,
-  author    = {Rafe, Amir},
-  title     = {{Awesome Causal AI: A Curated Collection of Research, Frameworks, and Methodologies in Causal Artificial Intelligence}},
-  year      = {2026},
-  publisher = {Zenodo},
-  version   = {1.0.5},
-  doi       = {10.5281/zenodo.20044980},
-  url       = {https://doi.org/10.5281/zenodo.20044980}
-}
-```
+Awesome Causal AI is a curated index of research papers, software libraries, datasets, courses, and practical resources for causal artificial intelligence. The repository is archived on Zenodo; use the DOI badge above for the latest archived version, or the citation block at the end for the exact `v1.0.5` release.
 
 ---
 
@@ -503,3 +492,25 @@ mindmap
 ![GitHub stars](https://img.shields.io/github/stars/pozapas/awesome-causal-ai?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/pozapas/awesome-causal-ai?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/pozapas/awesome-causal-ai?style=social)
+
+</div>
+
+---
+
+## Cite This Repository
+
+For the latest archived version, use the Zenodo concept DOI: [10.5281/zenodo.20044979](https://doi.org/10.5281/zenodo.20044979).
+
+For the exact `v1.0.5` release, cite:
+
+```bibtex
+@software{rafe_awesome_causal_ai_2026,
+  author    = {Rafe, Amir},
+  title     = {{Awesome Causal AI: A Curated Collection of Research, Frameworks, and Methodologies in Causal Artificial Intelligence}},
+  year      = {2026},
+  publisher = {Zenodo},
+  version   = {1.0.5},
+  doi       = {10.5281/zenodo.20044980},
+  url       = {https://doi.org/10.5281/zenodo.20044980}
+}
+```
