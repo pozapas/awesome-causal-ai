@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this resource, please cite it as below."
 title: "Awesome Causal AI: A Curated Collection of Research, Frameworks, and Methodologies in Causal Artificial Intelligence"
-version: "1.0.2"
+version: "1.0.3"
 type: software
 abstract: "A curated collection of research, frameworks, and methodologies in causal artificial intelligence."
 authors:
@@ -9,7 +9,6 @@ authors:
     given-names: Amir
     orcid: "https://orcid.org/0000-0001-5494-7128"
     affiliation: "Texas State University"
-repository-code: "https://github.com/pozapas/awesome-causal-ai"
 license: CC-BY-4.0
 date-released: "2026-05-05"
 keywords:
