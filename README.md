@@ -20,6 +20,22 @@
 
 <div align="center">
 
+### 📖 **Featured Publication by the Curator**
+
+> **[Causal AI and Computational Epistemology: A Survey](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6045495)**  
+> *Amir Rafe & Sujit Das — SSRN, 2025*  
+> A comprehensive survey reframing causal AI as a **knowledge-producing instrument** rather than a generic predictor.  
+> Covers the epistemological foundations of causal methods, unifying causal discovery, inference, and representation learning  
+> under a rigorous computational epistemology framework.
+
+[![Read Paper](https://img.shields.io/badge/📄%20Read%20Paper-SSRN%206045495-blue.svg?style=for-the-badge)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6045495)
+
+</div>
+
+---
+
+<div align="center">
+
 ### 🎯 *"From Correlation to Causation: Decoding the Why Behind AI"*
 
 **The most comprehensive collection of Causal AI resources**  
@@ -297,6 +313,15 @@ graph TD
 </details>
 
 ## 📚 Research Papers
+
+### 🏅 **Curator's Publication**
+
+- **[Causal AI and Computational Epistemology: A Survey](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6045495)** — Amir Rafe, Sujit Das (2025) [![SSRN](https://img.shields.io/badge/SSRN-6045495-blue.svg?style=flat-square)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6045495)  
+  Reframes causal AI as a computational epistemology: causal methods as knowledge-producing instruments, unifying causal discovery, inference, and representation learning under a rigorous epistemological lens.
+
+---
+
+### 📄 **Community Papers**
 
 - **[Position: Causal Machine Learning Requires Rigorous Synthetic Experiments for Broader Adoption](http://arxiv.org/abs/2508.08883v1)** - Audrey Poinsot, Panayiotis Panayiotou, Alessandro Leite, et al. (2025-08)
 - **[What if? Causal Machine Learning in Supply Chain Risk Management](http://arxiv.org/abs/2408.13556v1)** - Mateusz Wyrembek, George Baryannis, Alexandra Brintrup (2024-08)
