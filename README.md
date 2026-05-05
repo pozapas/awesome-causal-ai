@@ -9,6 +9,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20044979.svg)](https://doi.org/10.5281/zenodo.20044979)
 [![GitHub stars](https://img.shields.io/github/stars/pozapas/awesome-causal-ai.svg?style=social&label=Star)](https://github.com/pozapas/awesome-causal-ai)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-September%202025-blue.svg?style=flat-square)](https://github.com/pozapas/awesome-causal-ai)
@@ -36,6 +37,26 @@ Maintained alongside &nbsp;<a href="https://papers.ssrn.com/sol3/papers.cfm?abst
 [📚 Explore Resources](#-github-repositories) • [🤝 Contribute](CONTRIBUTING.md) • [📧 Contact](#-author--maintainer) • [⭐ Star to Bookmark](https://github.com/pozapas/awesome-causal-ai)
 
 </div>
+
+---
+
+## Cite This Repository
+
+For the latest archived version, use the Zenodo concept DOI: [10.5281/zenodo.20044979](https://doi.org/10.5281/zenodo.20044979).
+
+For the exact `v1.0.5` release, cite:
+
+```bibtex
+@software{rafe_awesome_causal_ai_2026,
+  author    = {Rafe, Amir},
+  title     = {{Awesome Causal AI: A Curated Collection of Research, Frameworks, and Methodologies in Causal Artificial Intelligence}},
+  year      = {2026},
+  publisher = {Zenodo},
+  version   = {1.0.5},
+  doi       = {10.5281/zenodo.20044980},
+  url       = {https://doi.org/10.5281/zenodo.20044980}
+}
+```
 
 ---
 
@@ -482,4 +503,3 @@ mindmap
 ![GitHub stars](https://img.shields.io/github/stars/pozapas/awesome-causal-ai?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/pozapas/awesome-causal-ai?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/pozapas/awesome-causal-ai?style=social)
-
