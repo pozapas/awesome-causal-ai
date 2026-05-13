@@ -510,7 +510,7 @@ For the exact `v1.0.5` release, cite:
   year      = {2026},
   publisher = {Zenodo},
   version   = {1.0.5},
-  doi       = {10.5281/zenodo.20044980},
-  url       = {https://doi.org/10.5281/zenodo.20044980}
+  doi       = {10.5281/zenodo.20044979},
+  url       = {https://zenodo.org/records/20044980}
 }
 ```
